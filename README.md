@@ -38,3 +38,17 @@ By doing the Data Analysis of the dataset, we get to know:
 
 3. How can we minimize the death rate in future accidents?
 
+
+## Free-data-science-book The Promise and Peril of Big Data
+
+**URL:** [click here](http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf)
+
+**Author/Institute Information:** David Bollier
+
+**Why Interested?**
+
+The Book “The Promise and Peril of Big Data” is a thought-provoking and very interesting book for everyone who is more into how the data will develop our world. The best part of this book is that it discusses both advantages and disadvantages by using Big Data in our day-to-day life. It explains the struggles in gathering and understanding the huge amounts of data from different resources. Another most fascinating thing about the book is that it explains the usage of Big Data technology in various fields like National Security, Health Care, Scientific research and development, and many more. This speaks how vast the Big Data in every field of today’s world. However, the book also states that there may be a chance in data leakage which may leads to privacy of individuals and chances of bias and discriminations.
+
+Finally, I can say that the Book “The Promise and Peril of Big Data” is a very informative and easily understandable, essential for all young minds who loves in how data shapes our world.
+
+
