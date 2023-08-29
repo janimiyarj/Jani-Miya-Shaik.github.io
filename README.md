@@ -39,7 +39,7 @@ By doing the Data Analysis of the dataset, we get to know:
 3. How can we minimize the death rate in future accidents?
 
 
-## Free-data-science-book The Promise and Peril of Big Data
+## The Promise and Peril of Big Data
 
 **URL:** [click here](http://www.aspeninstitute.org/sites/default/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf)
 
