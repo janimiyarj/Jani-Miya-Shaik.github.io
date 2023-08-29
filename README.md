@@ -30,9 +30,9 @@ Cabin: The Entire Titanic is divided into 3 cabins (A, B, C ).  This feature des
 
 Embark: This feature talks about the port of embarkation. It has three possible values: C for Cherboug, Q for Queenstown, S for Southampton.
 
-By doing the Data Analysis, we can know:
+By doing the Data Analysis of the dataset, we get to know:
 
-1.what are the major factors that effected the survival of Passengers?
+1. what are the major factors that effected the survival of Passengers?
 
 2. what are the steps to be taken care to improve the survival chances?
 
